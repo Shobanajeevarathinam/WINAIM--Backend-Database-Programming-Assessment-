@@ -1,4 +1,4 @@
-# WINAIM--Backend-Database-Programming-Assignment-
+# WINAIM--Backend-Database-Programming-Assignment
 Employee Management System
 
 **Objective**: To test the ability to design relational databases, write complex SQL queries, and handle data relationships.
